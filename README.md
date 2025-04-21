@@ -29,7 +29,7 @@ This project mainly utilizes:
 Note: At this moment, there is no requirements.txt because the project is not using a package manager for Python libraries.
 
 
-Installation & Setup
+Installation & Setup for local machine:
 
 Since the project is primarily in C++ and Java, follow the steps below to get started:
 
