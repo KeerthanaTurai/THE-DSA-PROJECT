@@ -1,5 +1,5 @@
 /**
- * File: CopyRandomList.java
+ * File: DeepCopy.java
  *
  * Problem 138. Copy List with Random Pointer
  *

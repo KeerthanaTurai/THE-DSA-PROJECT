@@ -1,5 +1,5 @@
 /**
- * File: MergeTwoSortedLists.java
+ * File: MergeTwoSortedLinkedLists.java
  *
  * Problem 21. Merge Two Sorted Lists
  *

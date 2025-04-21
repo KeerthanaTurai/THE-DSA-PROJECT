@@ -1,5 +1,5 @@
 /**
- * File: IntersectionOfLinkedLists.java
+ * File: IntersectionOfLinkedList.java
  *
  * Problem 160. Intersection of Two Linked Lists
  *
