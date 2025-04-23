@@ -1,6 +1,6 @@
 THE DSA PROJECT
 
-Status: In Progress
+Status: In Progress still working on it.
 
 A work-in-progress collection of data structures and algorithms implemented primarily in C++ and Java. This repository serves as a learning tool and reference for understanding core computer science concepts.
 
@@ -29,7 +29,7 @@ This project mainly utilizes:
 Note: At this moment, there is no requirements.txt because the project is not using a package manager for Python libraries.
 
 
-Installation & Setup
+Installation & Setup for local machine:
 
 Since the project is primarily in C++ and Java, follow the steps below to get started:
 
