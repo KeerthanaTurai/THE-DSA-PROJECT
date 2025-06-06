@@ -2,44 +2,53 @@ THE DSA PROJECT
 
 Status: In Progress still working on it.
 
-A work-in-progress collection of data structures and algorithms implemented primarily in C++ and Java. This repository serves as a learning tool and reference for understanding core computer science concepts.
+# THE DSA PROJECT 💡📘
+A comprehensive Java-based repository solving popular Data Structures and Algorithms (DSA) problems. This project is structured to support SDE interview preparation, technical assessments, and academic learning through categorized solutions and consistent coding patterns.
 
 
-Introduction
+## 🗂️ Folder Structure
 
-THE DSA PROJECT is a developing repository dedicated to implementing and experimenting with various data structures and algorithms. The aim is to provide clear, well-documented code samples in C++ and Java. Although the project is not yet complete, contributions and feedback are welcome as it grows and evolves.
+| Category           | Description                                      |
+|--------------------|--------------------------------------------------|
+| `Arrays`           | Classic array problems and Amazon-specific sets |
+| `BasicMath`        | Math utilities and fundamental number logic     |
+| `BinarySearch`     | Search-based problems and variations            |
+| `BinaryTrees`      | Tree traversals, construction, and logic        |
+| `BitManipulation`  | Problems using bitwise operators                |
+| `Design`           | System & LLD problems for interviews            |
+| `Graphs`           | Low-level graph traversal & connectivity logic  |
+| `LinkedList`       | Linked list operations & LLD practice           |
+| `Miscellaneous`    | Problems not falling into specific categories   |
+| `Recursion`        | Classic recursion/backtracking problems         |
+| `StacksAndQueues`  | Stack/queue implementation and logic            |
+| `Strings`          | String manipulation and search problems         |
 
-Current Status
+---
 
-Work In Progress: Many components are still under development.
+## 🎯 Goals
 
-Incomplete Modules: Not all data structures or algorithm topics have been fully implemented.
+- Build strong DSA problem-solving patterns
+- Focus on clean, modular Java code
+- Prepare effectively for top tech interviews (Amazon, Google, etc.)
+- Promote self-learning and independence from AI-generated code
 
-Active Development: New code and improvements are expected as the project evolves.
+---
 
+## 🚀 Tech Stack
 
-Technologies
+- **Language**: Java
+- **Version Control**: Git & GitHub
+- **IDE**: VSCode / IntelliJ IDEA
+- **Structure**: Object-Oriented Programming (OOP)
 
-This project mainly utilizes:
+---
 
-- C++: For performance-oriented implementations of data structures and algorithms.
-- Java: For object-oriented implementations and additional algorithm practice.
-- Git & GitHub: For version control and collaboration.
+## 🛠 How to Use
 
-Note: At this moment, there is no requirements.txt because the project is not using a package manager for Python libraries.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KeerthanaTurai/THE-DSA-PROJECT.git
 
-
-Installation & Setup for local machine:
-
-Since the project is primarily in C++ and Java, follow the steps below to get started:
-
-
-For C++:
-- Clone the Repository: git clone https://github.com/KeerthanaTurai/THE-DSA-PROJECT.git
-- Navigate to the Project Directory: cd THE-DSA-PROJECT
-- Compile a C++ File:
-  - g++ -o example examples/cpp/example.cpp
-  - ./example
 For Java:
 - Clone the Repository: git clone https://github.com/KeerthanaTurai/THE-DSA-PROJECT.git
 - Navigate to the Java Project Directory: cd THE-DSA-PROJECT/java_examples
