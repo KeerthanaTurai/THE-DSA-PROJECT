@@ -91,7 +91,7 @@ public class SumRootToLeafNumbers {
     public static void main(String[] args) {
         SumRootToLeafNumbers solver = new SumRootToLeafNumbers();
 
-        class Test { Integer[] tree; int target; Test(Integer[] t){ tree = t; } }
+        class Test { Integer[] tree;  Test(Integer[] t){ tree = t; } }
 
         List<Test> tests = List.of(
             new Test(new Integer[]{            }),      // empty
